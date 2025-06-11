@@ -1,5 +1,5 @@
 # dums_key
-QMK(Vial) firmware for MAXTILL 6 button mouse 
+QMK(Vial) firmware for MAXTILL 6 button mouse + RP2040-Zero
 
 ダイソー(DAISO)に売ってる USB有線マウスをQMKファームウエアをインストールしたRP2040-Zeroで片手デバイスにします。
 
